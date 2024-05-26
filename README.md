@@ -21,7 +21,7 @@ Create a new model from this Modelfile: $ ollama create my-python-assistant -f .
 Step 3: Download the Continuue VSCode Extension
 
 Continuue is an open-source extension that connects VSCode with LLMs downloaded with Ollama.
-Download it from 
+Download it from https://marketplace.visualstudio.com/items?itemName=Continue.continue
 
 Step 4: Connect VSCode with the LLM
 
