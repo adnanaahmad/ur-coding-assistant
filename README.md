@@ -18,9 +18,9 @@ SYSTEM "You are Python coding assistant. Help me autocomplete my Python code."
 
 Create a new model from this Modelfile: $ ollama create my-python-assistant -f ./Modelfile
 
-Step 3: Download the Continuue VSCode Extension
+Step 3: Download the Continue VSCode Extension
 
-Continuue is an open-source extension that connects VSCode with LLMs downloaded with Ollama.
+Continue is an open-source extension that connects VSCode with LLMs downloaded with Ollama.
 Download it from https://marketplace.visualstudio.com/items?itemName=Continue.continue
 
 Step 4: Connect VSCode with the LLM
